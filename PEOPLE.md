@@ -1,1 +1,1 @@
-Haskell Curry
+People need the LOVE
